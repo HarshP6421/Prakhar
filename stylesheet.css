@@ -1,0 +1,21 @@
+h1{
+  font-size: 6rem;
+  color: black;
+}
+
+div{
+  height: 100%;
+  width: 100%;
+
+}
+
+img{
+  width: 100%;
+  position: relative;
+
+}
+
+p{
+  font-size: 6rem;
+  color: white;
+}
